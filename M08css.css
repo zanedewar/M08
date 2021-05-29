@@ -45,7 +45,7 @@ h2 span {
   margin-left: 5px;
   padding: 4px 0 0 4px;}
 
-ul {
+ul, #item, #buttonAdd {
 	background-color: #584f4d;
 	border:none;
 	padding: 0;
