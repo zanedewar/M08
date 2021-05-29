@@ -1,5 +1,5 @@
 function addItem(){
-var newItem = document.getElementById.('item').value;
+var newItem = document.getElementById('item').value;
 
 // Create a new element and store it in a variable.
 var newEl = document.createElement('li');
